@@ -1,6 +1,4 @@
-def personal_information():
-    print('...')
-
-
-# Line which calls the above function.
-personal_information()
+print("Mackenzie Court")
+print("Hendricks, Minnesota 56136")
+print("507-430-6178")
+print("Highschool Senior")
